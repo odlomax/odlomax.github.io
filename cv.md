@@ -20,8 +20,7 @@ permalink: /cv/
 #### Met Office, Dec 2019 -- April 2022
  * Applying scientific and software engineering techniques to build the organisation's next generation data assimilation suite.
  * Working on ways to model the covariance of a background model field.
- * Developing a cubed sphere mesh and interpolation infrastructure in ECMWF's Atlas code.
- * Regularly chairing meetings, presenting work, and representing the section in the WSci Comms Group.
+ * Developing a cubed sphere mesh and interpolation infrastructure in ECMWF's Atlas library.
 
 ### Research Fellow
 #### European Space Agency, ESTEC, Oct 2018 -- Nov 2019
